@@ -3,6 +3,6 @@ this is my first name
 <br>
 <hr>coder-yashyadav.
 # Teacher
-shradha Khapara
+YASH YADAV
 # Student
 delta student
